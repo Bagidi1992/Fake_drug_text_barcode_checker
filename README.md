@@ -1,0 +1,2 @@
+# Fake_drug_text_barcode_checker
+Fake_drug_text
